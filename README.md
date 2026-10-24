@@ -1,18 +1,16 @@
-# Hi, I'm [Your Name]
+# Hi Assalamualaikum 👋, I'm Ahmad Izahan Azman
 
-[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
+## About Me
+* 🌱 I'm a student learning software development and building applications.
+* 💻 Currently working on my project: **Smart Wardrobe Daily Outfit Planner**.
 
-## About me
-- Studying: [your programme], UiTM
-- Currently learning: [topics]
-- My FYP area: [your area, or "still deciding"]
+## Skills
+* **Programming Languages:** Python, JavaScript, HTML/CSS
+* **Tools & Frameworks:** Git, GitHub, VS Code, OpenCV / PyTorch
 
-## Skills and tools
-[List what you know. Example: Python, Git, SQL]
-
-## Projects
-- [Project name](link-to-your-repository): one sentence about it
+## Featured Project
+* **[Smart Wardrobe Daily Outfit Planner](https://github.com/your-username/SMARTWARDROBE-DAILYOUTFITPLANNER)**: An application designed to digitize wardrobes, automate clothing categorization using computer vision, and plan daily outfits based on weather.
 
 ## Contact
-- LinkedIn: [your profile link]
-- Email: [a professional email address]
+* **GitHub:** https://github.com/izahanahmad
+* **Email:** 337985307+izahanahmad@users.noreply.github.com.
